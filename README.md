@@ -1,4 +1,4 @@
-HTML + CSS + JavaScript + Node.js + Express + React
+HTML + CSS + JavaScript + Node.js + React
 
 ### Use the HyperTerminal to enter the server of each one of the six projects by:
 
@@ -8,7 +8,7 @@ HTML + CSS + JavaScript + Node.js + Express + React
 
 - Installing the required NPM packages in *package.JSON* by typing `npm i`
 
-  NOTE: You won’t need to do the third bulleted step if *node_modules* directory wasn’t in the *gitignore* file.
+  NOTE: You won’t need to do the third bulleted step if *node_modules* directory wasn’t in the *gitignore* file
 
 - Running the website by typing `npm start`
 
